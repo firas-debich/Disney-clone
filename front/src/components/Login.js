@@ -1,11 +1,17 @@
 import React from 'react'
+import styled from 'styled-components'
 
 function Login() {
     return (
-        <div>
-            Hello world !! hey deploy 
-        </div>
+      <Container>
+
+          <Content>Content </Content>
+      </Container>
     )
 }
 
+
+
+const Container = styled.section``
+const Content = styled.section``
 export default Login
