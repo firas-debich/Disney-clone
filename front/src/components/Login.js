@@ -5,7 +5,7 @@ function Login() {
     <Container>
       <Content>
         <CTA>
-        <CTALogoOne src="/images/cta-logo-one.svg" alt="" />
+          <CTALogoOne src="/images/cta-logo-one.svg" alt="" />
         </CTA>
 
         <BgImage />
