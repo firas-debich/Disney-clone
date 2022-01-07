@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Disney-clone/static/css/main.5e34af5b.css",
-    "main.js": "/Disney-clone/static/js/main.7814dc10.js",
+    "main.js": "/Disney-clone/static/js/main.02ae1274.js",
     "index.html": "/Disney-clone/index.html",
     "main.5e34af5b.css.map": "/Disney-clone/static/css/main.5e34af5b.css.map",
-    "main.7814dc10.js.map": "/Disney-clone/static/js/main.7814dc10.js.map"
+    "main.02ae1274.js.map": "/Disney-clone/static/js/main.02ae1274.js.map"
   },
   "entrypoints": [
     "static/css/main.5e34af5b.css",
-    "static/js/main.7814dc10.js"
+    "static/js/main.02ae1274.js"
   ]
 }
